@@ -4,7 +4,7 @@ Atelier FCC terminé. Formulaire accessible utilisant la sémantique HTML5 et le
 
 **Fonctionnalités :** Fieldset/Legend, boutons radio personnalisés, états :hover/:active, interface sombre
 **Stack :** HTML5 + CSS3 | Jour 7 #100DaysOfCode
-**En ligne :** cedricboucard.github.io/fcc-form-parent-teacher/
+**En ligne :** [cedricboucard.github.io/fcc-form-parent-teacher/](https://cedricboucard.github.io/workshop-parent-teacher-conference-FCC/)
 
 # screenshot 
 
