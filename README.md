@@ -8,3 +8,4 @@ Atelier FCC terminé. Formulaire accessible utilisant la sémantique HTML5 et le
 
 # screenshot 
 
+![screenshot](screenshot.png)
